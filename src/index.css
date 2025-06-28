@@ -1,0 +1,93 @@
+.w-20{
+  width: 20%;
+}
+.w-30{
+  width: 30%;
+}
+.logo-text{
+  width: 100px;
+}
+.bi{
+  margin-right: 10px;
+}
+.story{
+  height: 60px;
+  padding: 10px;
+  
+}
+.dp{
+  height: 20px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.image{
+  width: 500px;
+  
+}
+.tool{
+  margin-left: 160px;
+}
+.suggessions h5{
+  font-size: 16px;
+ 
+}
+
+
+.suggessions .dp{
+  margin-top: 0px;
+}
+.left{
+  margin-left: 30px;
+}
+.sug{
+  margin-left: 30px;
+}
+
+.suggessions{
+  margin-left: 200px;
+}
+.name{
+  margin-left: 30px;
+  
+}
+.sug{
+  margin-left:30px ;
+  font-size: medium;
+}
+.hi{
+  font-size: 16px;
+}
+
+
+.name2{
+  margin-left: 70px;
+}
+
+.gradiant-border{
+  width:45px;
+  height:45px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border-radius:50%;
+  background: linear-gradient(45deg,  #ff00ff, #ff6600, #ffcc00);
+}
+.story-dp{
+  width: 40px;
+  
+}
+.tool1{
+  margin-left: 60px;
+}
+.tool2{
+  margin-right:70px ;
+}
+.font{
+  font-size:medium;
+}
+
+.profile{
+  width: 100px;
+  height: 100px;
+  
+}
