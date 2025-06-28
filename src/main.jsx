@@ -1,6 +1,6 @@
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import { createBrowserRouter,Router,RouterProvider } from 'react-router-dom'
+import { createBrowserRouter,RouterProvider } from 'react-router-dom'
 import ViewStory from './ViewStory.jsx'
 import Profile from './Profile.jsx'
 import App from './App.jsx'
